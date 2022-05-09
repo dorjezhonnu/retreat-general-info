@@ -1,8 +1,6 @@
 # retreat-general-info
 
-A Short Guide for Doing Retreat at Yeshe Khorlo
-
-Submitting the Inquiry Form is the first step to confirm availability of dates.
+```A Short Guide for Doing Retreat at Yeshe Khorlo```
 
 # The Way of the Cabin
 
