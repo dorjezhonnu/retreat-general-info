@@ -112,4 +112,4 @@ We sincerely hope your stay is of great benefit to your practice and that you ar
 - Check to make sure the propane is turned off at the tank
 - Replenish any items borrowed from the cabin
 
-```**May the merit of your retreat aid in the swift liberation of all beings!**```
+```May the merit of your retreat aid in the swift liberation of all beings!```
