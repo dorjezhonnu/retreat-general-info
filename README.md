@@ -111,3 +111,5 @@ We sincerely hope your stay is of great benefit to your practice and that you ar
 - Replenish any items borrowed from the cabin
 
 ```May the merit of your retreat aid in the swift liberation of all beings!```
+
+https://www.markdownguide.org/basic-syntax/
