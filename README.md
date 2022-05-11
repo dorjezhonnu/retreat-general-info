@@ -1,4 +1,4 @@
-# retreat-general-info
+# Yeshe Khorlo General Retreat Information
 
 ```A Short Guide for Doing Retreat at Yeshe Khorlo```
 
