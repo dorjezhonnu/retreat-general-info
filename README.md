@@ -75,7 +75,7 @@ Each cabin has its own outdoor toilet and Cabins 1 & 2 also have portable indoor
 
 - Add a handful of wood shavings after each use to reduce odor and speed composting.
 - Try not to urinate in the bucket all the time. It is okay to pee in the forest.
-- When bucket is 3/4′s full, remove and replace with an empty bucket. Put a lid and the date of removal on the old bucket. Try to find a sunny and flat location for the bucket to rest. After approximately nine months, the contents will be composted and safe for the earth.
+- Try to keep the lid down; it helps keep the flies out and a better experience for you.
 
 ## Fire Safety
 
