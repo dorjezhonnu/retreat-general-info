@@ -59,7 +59,7 @@ Although Yeshe Khorlo cabins receive excellent passive solar heat, fires are som
 - Don’t conspicuously dump ashes and coals outside
 - Once the ashes are thoroughly cooled, mix them into the forest floor covering or use in the outdoor composting toilet.
 
-## Outdoor Bathrooms/Portable Toilets
+## Outdoor Bathrooms <!-- /Portable Toilets
 
 Each cabin has its own outdoor toilet and Cabins 1 & 2 also have portable indoor toilets. Whether you choose to use the indoor toilet or outdoor toilet, please read these instructions carefully.
 
@@ -69,12 +69,12 @@ Each cabin has its own outdoor toilet and Cabins 1 & 2 also have portable indoor
 - To flush, press down on plunger to rinse basin with water and pull handle in front to flush
 - Please don’t put toilet paper in portable toilet; dispose of paper in the trash
 - When full (every 3 – 4 days), and at the end of your retreat, dispose of waste at the dumping station located on the just off the road to the cabins about 100ft below the path to the temple. Look for the trap door on the ground.
-- Refill with water and deodorizer for the next retreatant.
+- Refill with water and deodorizer for the next retreatant. -->
 
 ### All the cabins have outhouses. In order to facilitate decomposition, please note the following:
 
 - Add a handful of wood shavings after each use to reduce odor and speed composting.
-- Try not to urinate in the bucket all the time. It is okay to pee in the forest.
+- ```Try not to urinate in the bucket all the time. It is okay to pee in the forest.```
 - Try to keep the lid down; it helps keep the flies out and a better experience for you.
 
 ## Fire Safety
