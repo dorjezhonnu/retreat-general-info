@@ -59,7 +59,7 @@ Although Yeshe Khorlo cabins receive excellent passive solar heat, fires are som
 - Don’t conspicuously dump ashes and coals outside
 - Once the ashes are thoroughly cooled, mix them into the forest floor covering or use in the outdoor composting toilet.
 
-## Outdoor Bathrooms <!-- /Portable Toilets
+## Outdoor Bathrooms <!-- Portable Toilets
 
 Each cabin has its own outdoor toilet and Cabins 1 & 2 also have portable indoor toilets. Whether you choose to use the indoor toilet or outdoor toilet, please read these instructions carefully.
 
