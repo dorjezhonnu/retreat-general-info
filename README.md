@@ -77,6 +77,7 @@ Each cabin has its own outdoor toilet and Cabins 1 & 2 also have portable indoor
 ### All the cabins have outhouses. In order to facilitate decomposition, please note the following:
 
 - Add a handful of wood shavings after each use to reduce odor and speed composting.
+- Add a little lime to cut the smell.
 - ```Try not to urinate in the bucket all the time. It is okay to pee in the forest.```
 - Try to keep the lid down; it helps keep the flies out and a better experience for you.
 
